@@ -7,12 +7,6 @@
 </tr>
 
 <tr>
-<td>Lethargy Pools</td>
-<td>lethargy_pools_a5</td>
-<td><a href="https://gamebanana.com/mods/540771">Preview</a></td>
-</tr>
-
-<tr>
 <td>[Capture The Flag] Bluefort</td>
 <td>ctf_bluefort_rc1</td>
 <td><a href="https://gamebanana.com/mods/591827">Preview</a></td>
@@ -22,12 +16,6 @@
 <td>[Deathmatch] Backrooms Conne</td>
 <td>backrooms_conne</td>
 <td><a href="https://gamebanana.com/mods/409098">Preview</a></td>
-</tr>
-
-<tr>
-<td>[Deathrun] Department</td>
-<td>dr_department_v2b</td>
-<td><a href="https://gamebanana.com/mods/516776">Preview</a></td>
 </tr>
 
 <tr>
