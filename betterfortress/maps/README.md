@@ -1,4 +1,5 @@
 # Maps list
+<p align="center" width="100%">
 <table>
 <tr>
 <th>Name</th>
@@ -10,6 +11,13 @@
 <td>[Capture The Flag] Bluefort</td>
 <td>ctf_bluefort_rc1</td>
 <td><a href="https://gamebanana.com/mods/591827">Preview</a></td>
+</tr>
+
+
+<tr>
+<td>[Control Points?] FNAF Release Candidate 1</td>
+<td>cp_fnaf_rc1</td>
+<td><a href="https://gamebanana.com/mods/477636">Preview</a></td>
 </tr>
 
 <tr>
@@ -33,6 +41,12 @@
 <td>[Gun Game] Dust2 Deathmath VM</td>
 <td>gg_dust2_dmvm</td>
 <td><a href="https://gamebanana.com/mods/540771">Preview</a></td>
+</tr>
+
+<tr>
+<td>[My Gaming Edge] MGE Training V8 4B Beta</td>
+<td>mge_training_v8_beta4b</td>
+<td></td>
 </tr>
 
 <tr>
@@ -62,7 +76,8 @@
 <tr>
 <td>[VIP] Vineyard</td>
 <td>vip_vineyard_rc1l</td>
-<td></td>
+<td><a href="https://steamcommunity.com/workshop/filedetails/?id=2811632094">Preview</a></td>
 </tr>
 
 <table>
+</p>
