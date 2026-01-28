@@ -74,6 +74,12 @@
 </tr>
 
 <tr>
+<td>[Trade] Sunset Saloon</td>
+<td>trade_sunset_saloon_r2_2</td>
+<td><a href="https://gamebanana.com/mods/73835">Preview</a></td>
+</tr>
+
+<tr>
 <td>[VIP] Vineyard</td>
 <td>vip_vineyard_rc1l</td>
 <td><a href="https://steamcommunity.com/workshop/filedetails/?id=2811632094">Preview</a></td>
